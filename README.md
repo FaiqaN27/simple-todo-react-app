@@ -37,4 +37,4 @@ This app allows users to add todos with a date, view them in a list, and delete 
 
 4. Start the development server
 
-   npm start
+   npm run dev
